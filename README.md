@@ -72,7 +72,7 @@ The not-software content, like essays, theory, images, databases, etc, are under
 * Starting with gcloud and azure, databases, java (core)
 
 # Background
-I have a Bsc in Architecture (UTFSM, Chile), know some headless cli scripting, know SMAW and MIG/MAG welding, carpentry, laying concrete, install solar panels, and how to grow vegetables.
+I have a Bsc in Architecture (UTFSM, Chile), know some headless cli scripting with python and bash, know SMAW and MIG/MAG welding, carpentry, laying concrete, how to install solar panel systems, and how to grow vegetables.
 
 
 <!--

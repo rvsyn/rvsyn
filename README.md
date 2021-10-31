@@ -1,25 +1,23 @@
 ### Hi there 👋
-In the meantime, I will be using this username instead of my full name
+*Note: In the meantime, I will be using this username instead of my full name. I have (still, yet) to find the backed assertions from my working notes, so for now this text will be as is.*   
 
 ## What is this repo about: 
 I am studying how to build a system that shows the underlying design decisions explicit to their output, their inference to a set of viable solutions, to be generated to comply with requirements, aimed to (in the future) assist design endeavors outside of the perception of "whim" but from a logical approach.  
 
 Can a design be explicit in its measured sources of decision?  
-Can a design be solved as a sequence of evaluations?  
+Can a it be *solved* as a sequence of evaluations?  
 
 
 ## When is a design a good one?
 
-Formally, a design is a method of communication between Sender and Receiver.  
+Formally, a design is a method of communication between Sender and Receiver, crafted with a purpose.  
+It is "good" or "bad" depending on whether the Receiver perceiving it can read the ideas intended to communicate from Sender, by evaluating the properties expressed in it.  
+This judgement happens within a comparative evaluation at the Receiver side.
 
-A design is "good" or "bad" depending on whether the Receiver perceiving the design can read the ideas intended to communicate from Sender, by evaluating the properties expressed in it.  
-
-It happens within a comparative evaluation.
-
-The Receiver, when perceiving the design, compares it with one that corresponds to the subject associated with it in his memory.  
+The Receiver, when perceiving the design, compares it with one already stored in memory that corresponds to the subject associated with it.  
 Then wonders:  
 
-*"Does this proposal need changes to express better such an idea than the solution I remember that already works?"*
+*"Does this proposal needs changes to express better such an idea than the solution I remember that already works?"*
 
 If it answers NO, then the evaluation stops.
 What the Receiver remembers does not need any more changes.
@@ -65,8 +63,17 @@ An invention process would be:
 * Step 5: Delivery. Ability to do, technique, art. Expression, implementation of the idea as a narrative from the design, delivered as a memory message to the Receiver, who as perceives the design deploys the idea into its comparative evaluation.  
  
 # License
-- The software in the projects (TBA) are licensed under the [MIT License](https://github.com/virtknois/virtknois/blob/main/LICENSE)
-- The not-software content, like essays, theory, images, databases, etc, are under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+The software in the projects (TBA) are licensed under the [MIT License](https://github.com/virtknois/virtknois/blob/main/LICENSE)  
+The not-software content, like essays, theory, images, databases, etc, are under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  
+
+# Currently (related)
+* Learning frontend at Scrimba (HTML, CSS, JavaScript, React)  
+* Leveraging: git/gitub, data structures, algorithms, python3
+* Starting with gcloud and azure, databases, java (core)
+
+# Background
+I have a Bsc in Architecture (UTFSM, Chile), know some headless cli scripting, know SMAW and MIG/MAG welding, carpentry, laying concrete, install solar panels, and how to grow vegetables.
+
 
 <!--
 **virtknois/virtknois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

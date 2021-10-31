@@ -67,7 +67,7 @@ The software in the projects (TBA) are licensed under the [MIT License](https://
 The not-software content, like essays, theory, images, databases, etc, are under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  
 
 # Currently (related)
-* Learning frontend at Scrimba (HTML, CSS, JavaScript, React)  
+* Learning frontend at Scrimba (HTML, CSS, JavaScript, React), because cli scripts are too arid  
 * Leveraging: git/gitub, data structures, algorithms, python3
 * Starting with gcloud and azure, databases, java (core)
 

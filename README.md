@@ -1,13 +1,21 @@
 ### Hi there 👋
-*Note: In the meantime, I will be using this username instead of my full name. I have (still, yet) to find the backed assertions from my working notes, so for now this text will be as is.*   
+*Note: In the meantime, I will be using this username instead of my full name. I have to find the backed assertions from my working notes, so for now this text will be as is. Consider it empirically sourced.*   
 
-## What is this repo about: 
-I am studying how to build a system that shows the underlying design decisions explicit to their output, their inference to a set of viable solutions, to be generated to comply with requirements, aimed to (in the future) assist design endeavors outside of the perception of "whim" but from a logical approach.  
+## What does this project (will) do?
+(What is this user/user repo about)  
+I am currently studying (and iterating) how to build a system that shows the underlying design decisions explicit to their output, their inference to a set of viable solutions to comply with sets of requirements, aimed to assist design endeavors from a white-box approach (both deterministic and probabilistic).  
 
 Can a design be explicit in its measured sources of decision?  
-Can a it be *solved* as a sequence of evaluations?  
+It is an idea I´ve been working on from some time ago, and for the moment the hypotheses hold against simple scripts, but I would like to open the concept basis to more testing.  
+In some more weeks I might have some parts uploaded here (instead of being drawings at a portfolio of works).  
 
-
+## Why this project will be useful?
+I (naively) plan to make explicit a design process, to be automated by comparative intelligences.  
+Having a explicit design approach could help with the decision methods during the stages of development.  
+That is the long term goal. At least if I die of whatever the concept could float away.  
+  
+  
+I am working in this concept:
 ## When is a design a good one?
 
 Formally, a design is a method of communication between Sender and Receiver, crafted with a purpose.  
@@ -26,8 +34,6 @@ As a result, the design is ugly, wrong, whimsical.
 If it answers YES, the Receiver is open to modifying the solution in its memory and starts looking for properties.
 The evaluation continues.
  
- 
-## A model that simplifies reality
 
 The (human) brain evolved searching for events that repeat themselves following an order, patterns, sequences that could simplify reality.
 
@@ -61,6 +67,9 @@ An invention process would be:
 * Step 4: Design. The planning on how to make and deliver something. Configuration of assembly, function, shape, methods.
 
 * Step 5: Delivery. Ability to do, technique, art. Expression, implementation of the idea as a narrative from the design, delivered as a memory message to the Receiver, who as perceives the design deploys the idea into its comparative evaluation.  
+
+## About contributions
+It is a bit early to ask for any, but if interested in the subject you can private message me. I am ironing out a main portfolio so there could be the email domain, or it could be at slack later.
  
 # License
 The software in the projects (TBA) are licensed under the [MIT License](https://github.com/virtknois/virtknois/blob/main/LICENSE)  
@@ -72,18 +81,8 @@ The not-software content, like essays, theory, images, databases, etc, are under
 * Starting with gcloud and azure, databases, java (core)
 
 # Background
-I have a Bsc in Architecture (UTFSM, Chile), know some headless cli scripting with python and bash, know SMAW and MIG/MAG welding, carpentry, laying concrete, how to install solar panel systems, and how to grow vegetables.
+I have a Bsc in Architecture (UTFSM, Chile), and I know how to code headless cli scripts with python and bash, both in MS Windows and Debian. I mained Autocad then Revit then Blender, and had to implement ideas there before, which prompted me into coding outside of those tools.  
+Other skills besides playing with machines are: I know SMAW and MIG/MAG welding, carpentry, laying concrete, how to install solar panel systems, and how to grow vegetables. Those are kind of related because processes follow their own algorithms.
 
 
-<!--
-**virtknois/virtknois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->

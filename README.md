@@ -1,20 +1,23 @@
 ### Hi there 👋
-*Note: In the meantime, I will be using this username instead of my full name. I have to find the backed assertions from my working notes, so for now this text will be as is. Consider it empirically sourced.*   
+
 
 ## What does this project (will) do?
 (What is this user/user repo about)  
 I am currently studying (and iterating) how to build a system that shows the underlying design decisions explicit to their output, their inference to a set of viable solutions to comply with sets of requirements, aimed to assist design endeavors from a white-box approach (both deterministic and probabilistic).  
 
-Can a design be explicit in its measured sources of decision?  
-It is an idea I´ve been working on from some time ago, and for the moment the hypotheses hold against simple scripts, but I would like to open the concept basis to more testing.  
+### Can a design be explicit in its measured sources of decision?  
+It is an idea I´ve been working on from some time ago, and for the moment the hypotheses hold against simple scripts, but I would like to open the concept basis to complexity testing.  
 In some more weeks I might have some parts uploaded here (instead of being drawings at a portfolio of works).  
+
+*Note: In the meantime, I will be using this username instead of my full name. I have to find the backed assertions from my working notes, so for now this text will be as is. Consider it empirically sourced.*   
 
 ## Why this project will be useful?
 I (naively) plan to make explicit a design process, to be automated by comparative intelligences.  
 Having a explicit design approach could help with the decision methods during the stages of development.  
 That is the long term goal. At least if I die of whatever the concept could float away.  
   
-  
+ 
+   
 I am working in this concept:
 ## When is a design a good one?
 
@@ -51,11 +54,9 @@ With the property-value pairs in memory, the brain builds and stores a quick acc
  
 ## The narrative of design
 
-How the brain parses these sequences correspond to a process of invention, from which are developed tools and processes.
-
-This composition gets communicated as a narrative of properties and values.
-
-If the Receiver is capable to perceive as intended the narrative of the design, then the design will get evaluated as good.
+How the brain parses these sequences correspond to a process of invention, from which are developed tools and processes.  
+This composition gets communicated as a narrative of properties and values.  
+If the Receiver is capable to perceive as intended the narrative of the design, then the design will get evaluated as good.  
 
 An invention process would be:
 * Step 1: Mathematics. Quantification of reality, relationships, concepts of measure, properties of numbers, and proportions. The proposition of ideas as logic constructs.
@@ -68,20 +69,27 @@ An invention process would be:
 
 * Step 5: Delivery. Ability to do, technique, art. Expression, implementation of the idea as a narrative from the design, delivered as a memory message to the Receiver, who as perceives the design deploys the idea into its comparative evaluation.  
 
+## Pieces
+* There should be a sense templating system  
+* There should be something like an UI (for monitoring, for moving things, for inputs, etc)  
+* There should be a system to show the n-dimension tree of 'truths' with the outputs  
+* There should be some models for the intelligences to deploy (senses, memory, logic)
+* There should be a system to deploy all pieces to get sensed and processed  
+
 ## About contributions
-It is a bit early to ask for any, but if interested in the subject you can private message me. I am ironing out a main portfolio so there could be the email domain, or it could be at slack later.
+It is a bit early to ask for any. I am ironing out a main portfolio for the webdev practice (user interfaces and context general), so there could be the email domain, or it could be at slack later when I set up another account and have work done at the project management stage.
  
-# License
+## License
 The software in the projects (TBA) are licensed under the [MIT License](https://github.com/virtknois/virtknois/blob/main/LICENSE)  
 The not-software content, like essays, theory, images, databases, etc, are under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  
 
-# Currently (related)
-* Learning frontend at Scrimba (HTML, CSS, JavaScript, React), because cli scripts are too arid  
-* Leveraging: git/gitub, data structures, algorithms, python3
+## Currently (related)
+* Learning frontend at Scrimba (html, css, javascript, react), because cli scripts are too arid  
+* Leveraging: git, data structures, algorithms, python3, design bits I learned from architecture school and practice
 * Starting with gcloud and azure, databases, java (core)
 
-# Background
-I have a Bsc in Architecture (UTFSM, Chile), and I know how to code headless cli scripts with python and bash, both in MS Windows and Debian. I mained Autocad then Revit then Blender, and had to implement ideas there before, which prompted me into coding outside of those tools.  
+## Background
+I have a Bsc in Architecture (UTFSM, Chile), and I know how to code headless cli scripts with python3 and bash, both in MS Windows and Debian. I *mained* Autocad then Revit then Blender, and had to implement ideas there before, which prompted me into coding outside of those tools.  
 Other skills besides playing with machines are: I know SMAW and MIG/MAG welding, carpentry, laying concrete, how to install solar panel systems, and how to grow vegetables. Those are kind of related because processes follow their own algorithms.
 
 
